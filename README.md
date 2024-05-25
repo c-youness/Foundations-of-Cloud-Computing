@@ -78,5 +78,9 @@ Now edit R1-IGW and add routing rule as mentioned below
 
 ![19](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/cea7d3ce-9080-4c13-b03a-fbefa8eca4d9)
 ![20](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/7f2ca2a8-d47c-4e35-a7c3-6597e2bf4f7c)
+![21](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/28561d92-8c77-4a44-b0bc-cee65bae7f00)
+![22](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/8f576b78-5a72-4d9d-baf9-a8b7a1d6902a)
+
+
 
 
