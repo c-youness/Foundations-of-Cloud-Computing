@@ -111,6 +111,20 @@ EC2
 ![EC2_0](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/ac17f3c6-c069-4a72-9faa-0ab6dbc7d2e8)
 ![EC_1](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/eed1f8ad-8550-464f-b272-6eadf500bbfe)
 ![EC-2](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/885bfba8-99dd-4ee6-a97b-f3accd187661)
+![EC-3](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/7bf16fdc-9a51-4d60-b7ce-dc7f2ecf2809)
+![EC-44](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/b22fb35e-d7d0-41e0-8635-f1fbad6703e5)
+![EC-45](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/1f88c3e0-fdd7-4964-8054-f9edc2802ee1)
+![EC-46](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/ded4ffca-b853-4cbe-a0f9-05774537bb2a)
+
+
+EC2 ==> Network & Security ==> Security Groups ==> 
+===========
+![EC47](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/3038ef72-a9cb-4c3c-99ca-7e291c2ba1ea)
+![EC-48](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/d3366891-54e8-4664-bea1-9dd3d48529e5)
+![EC-49](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/e944af12-0ff6-4c16-a832-5fa1d1ff2bd2)
+
+
+
 
 
 
