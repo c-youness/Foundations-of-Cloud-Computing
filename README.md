@@ -91,6 +91,22 @@ Attach routing tables to subnets. R1-IGW to S3-Public and S4-Public, public netw
 Attach R2-VGW to S1-Private and S2-Private (No internet become a private subnets)
 ------------------
 
+![25](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/755b0f91-219d-4c9c-9c59-c389d0a7899c)
+
+![26](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/fb5be0f5-6feb-49db-99b7-f9b43a843920)
+
+![27](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/d0b54440-ff12-4725-bffa-c14f4b726068)
+
+![28](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/8029d48c-dfab-4922-9eb6-05c83090a68a)
+
+![29](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/7abaaf4f-b057-4951-a9ab-83751db14f0e)
+![30](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/d9432efd-d5da-43b9-93af-91ef060a527b)
+![31](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/e19b6ca7-b2bb-4f87-b578-6ac22f25b754)
+![32](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/9511e95e-ba92-4042-9dec-3862f084dae8)
+![33](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/154ca272-81d9-4e92-96f6-914cfc27367d)
+
+
+
 
 
 
