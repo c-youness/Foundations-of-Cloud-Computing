@@ -79,7 +79,18 @@ Now edit R1-IGW and add routing rule as mentioned below
 ![19](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/cea7d3ce-9080-4c13-b03a-fbefa8eca4d9)
 ![20](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/7f2ca2a8-d47c-4e35-a7c3-6597e2bf4f7c)
 ![21](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/28561d92-8c77-4a44-b0bc-cee65bae7f00)
+
+Now edit R2-VGW and add routing rule as mentioned below
+------------------
 ![22](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/8f576b78-5a72-4d9d-baf9-a8b7a1d6902a)
+![23](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/a35a030b-a4e0-4940-a46b-d24ad6efe300)
+![24](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/300eef74-297a-40db-add1-a891482ca149)
+
+
+Attach routing tables to subnets. R1-IGW to S3-Public and S4-Public, public network required to have internet access. 
+Attach R2-VGW to S1-Private and S2-Private (No internet become a private subnets)
+------------------
+
 
 
 
