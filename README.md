@@ -41,3 +41,42 @@ Create Internet gateway and
 attach to VPC
 ------------------
 ![9](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/5fefa625-3797-4b47-8a74-a22d7dc7e911)
+
+![10](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/9a67ee95-4bda-4efb-b99f-92ea5a191985)
+
+Create Virtual Private Gateway
+----------------
+
+Virtual Private network (VPN)   ==> Virtual Private Gateway
+----------------
+![11](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/6a9540d2-3a02-46a6-9a58-e1b0779eb910)
+![12](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/0cbfb28b-a6c6-4a72-972d-fcd69dacc20a)
+
+
+attach to VPC
+------------------
+![13](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/2a3e1cde-6d52-4514-9f0a-c00f4a494b17)
+
+![14](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/3f8085f2-7796-4c44-820b-ba40d59f3a52)
+![15](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/bc66bddf-49ad-4f0d-aa55-9a889b1dadd0)
+
+Create route tables
+------------------
+![16](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/750d4bcd-62ba-412a-be94-bad50a4f7f38)
+![17](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/66db68f6-4aad-4bca-b8a3-c41cc0c3d623)
+
+![18](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/2f9aa178-426a-4b4a-9052-5aa47173ac7b)
+
+One route for Internet gateway, another for Virtual private gateway (R1-IGW and R2-VGW)
+------------------
+Route - 0.0.0.0/0 to IGW
+Route - 192.168.0.0/16 to VGW
+------------------
+
+Now edit R1-IGW and add routing rule as mentioned below
+------------------
+
+![19](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/cea7d3ce-9080-4c13-b03a-fbefa8eca4d9)
+![20](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/7f2ca2a8-d47c-4e35-a7c3-6597e2bf4f7c)
+
+
