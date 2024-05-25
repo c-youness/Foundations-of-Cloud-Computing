@@ -106,6 +106,12 @@ Attach R2-VGW to S1-Private and S2-Private (No internet become a private subnets
 ![33](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/154ca272-81d9-4e92-96f6-914cfc27367d)
 
 
+EC2
+----
+![EC2_0](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/ac17f3c6-c069-4a72-9faa-0ab6dbc7d2e8)
+![EC_1](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/eed1f8ad-8550-464f-b272-6eadf500bbfe)
+![EC-2](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/885bfba8-99dd-4ee6-a97b-f3accd187661)
+
 
 
 
