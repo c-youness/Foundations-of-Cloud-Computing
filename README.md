@@ -26,4 +26,18 @@ Create subnets
 ===========
 Inside VPC to divide smaller blocks and separation
 ===================================
+![VPC_3-2](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/0b4b1ba7-16e4-4c4f-a930-bb91dd1957a8)
+![VPC-3-3](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/d647b65f-aef7-48bb-8cd2-3b5ae60c350a)
+![VPC_3-4](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/72a37fa3-c08a-4586-b76e-00db368d5ea4)
+![VPC_3-5](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/84fe0bb9-f1f9-43f8-8810-ab5ecdc2f4b5)
 
+Create Internet gateway and 
+-----------------------
+
+![7](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/b4a83d61-7e3e-4bb5-aa7a-8ad4fc6720f7)
+
+![8](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/1d4c2563-d1cf-46dd-be34-2d0eb08d7d3a)
+
+attach to VPC
+------------------
+![9](https://github.com/chalyouness/Foundations-of-Cloud-Computing/assets/114768920/5fefa625-3797-4b47-8a74-a22d7dc7e911)
